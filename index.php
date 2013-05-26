@@ -51,7 +51,6 @@ $re_data = mcrypt_decrypt(MCRYPT_RIJNDAEL_256, $key, $encdata, MCRYPT_MODE_ECB, 
 <head>
 <title>ExpOne></title>
  <script src="http://code.jquery.com/jquery-latest.js"></script>
- <script src="./jquery.cookie.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="bootstrap/css/bootstrap.min.css">
  <script src="./bootstrap/js/bootstrap.js"></script>
 <script type="text/javascript">

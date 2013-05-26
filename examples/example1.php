@@ -29,6 +29,11 @@ echo "Get Decrypted cookie: " . $re_cookie_data . "<br>";
 
 if (!isset($_COOKIE["LiuCookie"])){
 	setcookie("LiuCookie", $encdata, $exptime);
+	
+
+	$page = $_SERVER['PHP_SELF'];
+    $sec = "0";
+    header("Refresh: $sec; url=$page");
 } 
 
 ?>
