@@ -68,31 +68,27 @@ $(document).ready(function(){
 	
 </script>
 </head>
-<body>
-	<div id="" class="well">
-
-
-<ul class="nav nav-tabs" id="myTab">
-  <li class="active">
-    <a href="#exp1" data-toggle="tab">Liu's Example</a>
-  </li>
-  <li><a href="#exp2" data-toggle="tab">Fu's Example</a></li>
-  <li><a href="#exp3" data-toggle="tab">Our Example</a></li>
-</ul>
-
-<div  class="tab-content">
-              <div class="tab-pane fade active in" id="exp1">
-                <?php include 'examples/example1.php'; ?>
-              </div>
-              <div class="tab-pane fade" id="exp2">
-                <?php include 'examples/example2.php'; ?>
-              </div>
-              <div class="tab-pane fade" id="exp3">
-               <?php include 'examples/example3.php'; ?>
-              </div>
-            </div>
-
-
-
+<div id="" class="well">
+    <ul class="nav nav-tabs" id="myTab">
+        <li class="active">
+            <a href="#example1" data-toggle="tab">Liu's Example</a>
+        </li>
+        <li>
+            <a href="#example2" data-toggle="tab">Fu's Example</a>
+        </li>
+        <li>
+            <a href="#example3" data-toggle="tab">Our Example</a>
+        </li>
+    </ul>
+    <div class="tab-content">
+        <div class="tab-pane fade active in" id="example1">
+            <?php include 'examples/example1.php'; ?>
+        </div>
+        <div class="tab-pane fade" id="example2">
+            <?php include 'examples/example2.php'; ?>
+        </div>
+        <div class="tab-pane fade" id="example3">
+            <?php include 'examples/example3.php'; ?>
+        </div>
+    </div>
 </div>
-</body></html>

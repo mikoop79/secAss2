@@ -1,4 +1,4 @@
-<h1>Experiment One </h1>
+<h1>Experiment One. </h1>
 <h2>Implementation of Liu's Secure Cookie Scheme</h2>
 <p>username | expiration time| (data)k | HMAC(username | expiration time | data , k) <br/> where k = HMAC(username | expiration time, sk)</p>
 <p><strong>NOTE</strong> sk = serverkey</p>
