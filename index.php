@@ -56,10 +56,9 @@ $re_data = mcrypt_decrypt(MCRYPT_RIJNDAEL_256, $key, $encdata, MCRYPT_MODE_ECB, 
  <script src="./bootstrap/js/bootstrap.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
-
 	$('#myTab a').click(function (e) {
   		e.preventDefault();
-    $(this).tab('show');
+        $(this).tab('show');
 })
 
 
