@@ -1,0 +1,211 @@
+[Tue May 28 20:54:06 2013] [error] [client 127.0.0.1] Symbolic link not allowed or link target not accessible: /Users/mikoop/sites/a2
+[Tue May 28 20:54:06 2013] [error] [client 127.0.0.1] Symbolic link not allowed or link target not accessible: /Users/mikoop/sites/a2
+[Tue May 28 20:54:07 2013] [error] [client 127.0.0.1] Symbolic link not allowed or link target not accessible: /Users/mikoop/sites/a2
+[Tue May 28 20:54:07 2013] [error] [client 127.0.0.1] Symbolic link not allowed or link target not accessible: /Users/mikoop/sites/a2
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include(examples/example1.php) [<a href='function.include'>function.include</a>]: failed to open stream: Permission denied in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 74
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'examples/example1.php' for inclusion (include_path='.:') in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 74
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include(examples/example2.php) [<a href='function.include'>function.include</a>]: failed to open stream: Permission denied in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 77
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'examples/example2.php' for inclusion (include_path='.:') in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 77
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include(examples/example3.php) [<a href='function.include'>function.include</a>]: failed to open stream: Permission denied in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 80
+[Tue May 28 20:56:57 2013] [error] [client 127.0.0.1] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'examples/example3.php' for inclusion (include_path='.:') in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/index.php on line 80
+[Tue May 28 20:56:58 2013] [crit] [client 127.0.0.1] (13)Permission denied: /Users/mikoop/sites/a2/bootstrap/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://sec2.local/
+[Tue May 28 20:56:58 2013] [crit] [client 127.0.0.1] (13)Permission denied: /Users/mikoop/sites/a2/bootstrap/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable, referer: http://sec2.local/
+[Tue May 28 20:56:58 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:57:54 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 35
+[Tue May 28 20:57:54 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: data in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 21
+[Tue May 28 20:57:54 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 34
+[Tue May 28 20:57:55 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:57:55 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: data in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 21, referer: http://sec2.local/
+[Tue May 28 20:57:55 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:58:44 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:59:18 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:59:30 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:59:52 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 20:59:57 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:01:14 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:01:32 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:01:50 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:02:03 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:02:20 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:02:30 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:02:32 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:02:36 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:05:40 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:05:44 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:06:33 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Barry234|1369743574|\xa4s\xf8\x8d\xf6\x9fPFc\xc8<\xd8l\xba\xdb\xcf\b-\x99\xe8\xbe\x12\x8e\x13\x15qQ\nb\xa5\x95t\xbe'e|w\n\xd8\x8f\x88\x8f\xef\x01\xcb\xb5\xe3z\xd4\xda\xf9z\xf6g\xd6\xd5a&f\xf2\x0e&\xb9\x12|e342dd16549aba14f69f5bdc23280a4d2ba14e628d23eb03b1b95235abebfb37 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 1 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 111
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 112
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 3 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 113
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 119
+[Tue May 28 21:19:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 1 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 111
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 112
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 3 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 113
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 119
+[Tue May 28 21:22:26 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:24:12 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '{', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:24:13 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:24:36 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '{', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:24:36 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:24:53 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:24:53 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:24:53 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:24:53 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:25:12 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:25:12 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:25:12 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:25:45 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '"', expecting T_STRING or T_VARIABLE or T_NUM_STRING in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:25:45 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:26:32 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 35
+[Tue May 28 21:26:32 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35
+[Tue May 28 21:26:32 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38
+[Tue May 28 21:26:32 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 21:26:32 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 21:26:33 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:26:33 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:26:33 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 21:26:33 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 21:26:33 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:26:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:26:34 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:26:34 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:26:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:27:08 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:27:08 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 106
+[Tue May 28 21:27:08 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 108
+[Tue May 28 21:27:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:27:23 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:27:23 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 104
+[Tue May 28 21:27:23 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 109
+[Tue May 28 21:27:23 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:27:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: expire in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 101
+[Tue May 28 21:27:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 104
+[Tue May 28 21:27:27 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 109
+[Tue May 28 21:27:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:27:55 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: Basil in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 104
+[Tue May 28 21:27:55 2013] [error] [client 127.0.0.1] PHP Warning:  explode() expects parameter 2 to be string, array given in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/Liucookiescheme.php on line 109
+[Tue May 28 21:27:55 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:38 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/a2
+[Tue May 28 21:48:38 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/a2
+[Tue May 28 21:48:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:46 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/a2
+[Tue May 28 21:48:46 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:47 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/a2
+[Tue May 28 21:48:47 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:53 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:55 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 21:48:55 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 21:48:55 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:48:56 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 21:48:56 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 21:48:57 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:49:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35
+[Tue May 28 21:49:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38
+[Tue May 28 21:49:01 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:49:58 2013] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 29
+[Tue May 28 21:49:58 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:50:08 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35
+[Tue May 28 21:50:08 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38
+[Tue May 28 21:50:08 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 42
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:53:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:56:04 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:56:04 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:56:04 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:57:53 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:57:53 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:57:53 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:58:04 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:58:04 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:58:04 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:58:29 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:58:29 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:58:30 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:58:48 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:58:48 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:58:49 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:59:21 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:59:21 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:59:22 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 21:59:38 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 21:59:38 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 21:59:39 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 22:00:38 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 22:00:38 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 22:00:38 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 43, referer: http://sec2.local/
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 48, referer: http://sec2.local/
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 22:00:52 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 22:44:05 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 22:44:05 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 22:44:06 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:14:46 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 43, referer: http://sec2.local/index.php
+[Tue May 28 23:14:46 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 49, referer: http://sec2.local/index.php
+[Tue May 28 23:14:46 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 23:14:46 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 23:14:47 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:14:47 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 23:14:47 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 23:14:47 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:15:05 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 23:15:05 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: FUdata in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 38, referer: http://sec2.local/index.php
+[Tue May 28 23:15:05 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:16:30 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 35, referer: http://sec2.local/index.php
+[Tue May 28 23:16:30 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:16:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:19:42 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:21:17 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:21:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 43, referer: http://sec2.local/index.php
+[Tue May 28 23:21:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 49, referer: http://sec2.local/index.php
+[Tue May 28 23:21:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 37, referer: http://sec2.local/index.php
+[Tue May 28 23:21:27 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 43, referer: http://sec2.local/index.php
+[Tue May 28 23:21:27 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:21:28 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:23:00 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:23:37 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:25:10 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:25:34 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:29:33 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:30:26 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:30:54 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 15, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 19, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 26, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 32, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: OurCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 44, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 50, referer: http://sec2.local/index.php
+[Tue May 28 23:37:01 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 50, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 15, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 19, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 26, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 32, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: ourKey in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 50, referer: http://sec2.local/index.php
+[Tue May 28 23:37:02 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:38:49 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: FuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 36, referer: http://sec2.local/index.php
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example1.php on line 42, referer: http://sec2.local/index.php
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: LiuCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 43, referer: http://sec2.local/index.php
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example2.php on line 49, referer: http://sec2.local/index.php
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined index: OurCookie in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 52, referer: http://sec2.local/index.php
+[Tue May 28 23:39:19 2013] [error] [client 127.0.0.1] PHP Notice:  Undefined offset: 2 in /Users/mikoop/Dropbox/RMIT/2013/SEC/Assignments/sec_assignment2/examples/example3.php on line 58, referer: http://sec2.local/index.php
+[Tue May 28 23:39:20 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico
+[Tue May 28 23:39:20 2013] [error] [client 127.0.0.1] File does not exist: /Users/mikoop/sites/a2/favicon.ico

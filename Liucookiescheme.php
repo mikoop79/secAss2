@@ -78,7 +78,7 @@ echo "<h3>Set the cookie</h3>";
 //cookie setting values
 $cname = "Basil";
 //$value = $encdata;
-//$expire = $exptime;
+$expire = $exptime;
 $path = "/";
 $domain = "localhost";
 //$secure = 
@@ -101,11 +101,12 @@ echo "domain = $domain</p>";
 if(setcookie($cname, $encvalue, $expire, $path, $domain)){
 
 echo "<h4>The cookie is set</h4>";
+echo "<p>" . $_COOKIE[$cname] . "</p>";
 }
 
-echo "<p>$_COOKIE[$cname]</p>";
 
-$contents = explode($sepr, $_COOKIE[$cname]);
+
+$contents = explode($sepr, $_COOKIE);
 
 echo "<p>$contents[0]";
 echo "<br/>$contents[1]";
