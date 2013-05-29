@@ -8,6 +8,9 @@
 <h3>First generate k - the key for encryption</h3>
 
 <?php
+
+//session_regenerate_id();
+
 if (!isset($_SESSION['Ourkey'])){
     
      $ourKey = substr(hash_hmac("sha256", "{$sessionid}{$sepr}{$exptime}", $serverkey), 0, $keysize);
@@ -23,6 +26,9 @@ $OurData = "Our Data: This is our Data, Item one, Item 234";
 $encdata = mcrypt_encrypt(MCRYPT_RIJNDAEL_256, $ourKey, $OurData, "ecb");
 // Encrypted data length
 $enclength = strlen($encdata);
+
+$b64encdata = base64_encode($encdata);
+
 //Decrypt the data
 $re_data = mcrypt_decrypt(MCRYPT_RIJNDAEL_256, $ourKey, $encdata, MCRYPT_MODE_ECB, $iv);
 echo "User name: $username <br/>";
@@ -37,7 +43,9 @@ echo "Encrypted data: $encdata <br/>";
 echo "Encrypted data length: $enclength <br/></p>";
 echo "<p>Decrypted data: $re_data</p>";
 
-$cookievalue =  $sessionid . $sepr . $exptime . $sepr . $encdata . $sepr . hash_hmac("sha256", "{$sessionid}{$sepr}{$exptime}", $ourKey);
+echo "<p>Base-64 encode the encrypted data: $b64encdata</p>";
+
+$cookievalue =  $sessionid . $sepr . $exptime . $sepr . $b64encdata . $sepr . hash_hmac("sha256", "{$sessionid}{$sepr}{$exptime}", $ourKey);
 echo "<strong>Our cookie scheme data: </strong>" . $cookievalue;
 
 
@@ -55,7 +63,7 @@ $value = explode($sepr, $_COOKIE['OurCookie']);
 	echo '</pre>';
 
 
-	$re_cookie_data = mcrypt_decrypt(MCRYPT_RIJNDAEL_256, $ourKey, $value[2], MCRYPT_MODE_ECB, $iv);
+	$re_cookie_data = mcrypt_decrypt(MCRYPT_RIJNDAEL_256, $ourKey, base64_decode($value[2]), MCRYPT_MODE_ECB, $iv);
 
 echo "Get Data value and decrypt the data: " . $re_cookie_data . "<br>";
 
