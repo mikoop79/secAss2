@@ -57,6 +57,10 @@ $(document).ready(function(){
         <li>
             <a href="#example3" data-toggle="tab">Our Example</a>
         </li>
+
+         <li>
+            <a href="#example4" data-toggle="tab">Our Extra Secure Example</a>
+        </li>
     </ul>
     <div class="tab-content">
         <div class="tab-pane active in" id="example1">
@@ -67,6 +71,9 @@ $(document).ready(function(){
         </div>
         <div class="tab-pane fade" id="example3">
             <?php include 'examples/example3.php'; ?>
+        </div>
+        <div class="tab-pane fade" id="example4">
+            <?php include 'examples/example4.php'; ?>
         </div>
     </div>
 </div>
